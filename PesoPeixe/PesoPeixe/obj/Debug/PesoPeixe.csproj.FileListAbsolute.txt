@@ -1,0 +1,7 @@
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PesoPeixe\PesoPeixe\bin\Debug\PesoPeixe.exe.config
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PesoPeixe\PesoPeixe\bin\Debug\PesoPeixe.exe
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PesoPeixe\PesoPeixe\bin\Debug\PesoPeixe.pdb
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PesoPeixe\PesoPeixe\obj\Debug\PesoPeixe.csproj.AssemblyReference.cache
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PesoPeixe\PesoPeixe\obj\Debug\PesoPeixe.csproj.CoreCompileInputs.cache
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PesoPeixe\PesoPeixe\obj\Debug\PesoPeixe.exe
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PesoPeixe\PesoPeixe\obj\Debug\PesoPeixe.pdb
