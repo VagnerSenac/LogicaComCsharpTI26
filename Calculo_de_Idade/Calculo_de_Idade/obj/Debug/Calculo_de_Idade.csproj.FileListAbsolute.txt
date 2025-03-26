@@ -1,0 +1,7 @@
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\bin\Debug\Calculo_de_Idade.exe.config
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\bin\Debug\Calculo_de_Idade.exe
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\bin\Debug\Calculo_de_Idade.pdb
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\obj\Debug\Calculo_de_Idade.csproj.AssemblyReference.cache
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\obj\Debug\Calculo_de_Idade.csproj.CoreCompileInputs.cache
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\obj\Debug\Calculo_de_Idade.exe
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\obj\Debug\Calculo_de_Idade.pdb
