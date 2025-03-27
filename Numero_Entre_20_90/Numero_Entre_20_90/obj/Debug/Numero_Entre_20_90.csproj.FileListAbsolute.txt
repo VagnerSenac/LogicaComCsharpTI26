@@ -1,0 +1,7 @@
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Numero_Entre_20_90\Numero_Entre_20_90\bin\Debug\Numero_Entre_20_90.exe.config
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Numero_Entre_20_90\Numero_Entre_20_90\bin\Debug\Numero_Entre_20_90.exe
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Numero_Entre_20_90\Numero_Entre_20_90\bin\Debug\Numero_Entre_20_90.pdb
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Numero_Entre_20_90\Numero_Entre_20_90\obj\Debug\Numero_Entre_20_90.csproj.AssemblyReference.cache
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Numero_Entre_20_90\Numero_Entre_20_90\obj\Debug\Numero_Entre_20_90.csproj.CoreCompileInputs.cache
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Numero_Entre_20_90\Numero_Entre_20_90\obj\Debug\Numero_Entre_20_90.exe
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Numero_Entre_20_90\Numero_Entre_20_90\obj\Debug\Numero_Entre_20_90.pdb

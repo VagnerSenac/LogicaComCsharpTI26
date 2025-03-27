@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vagner.lourenco\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Pares_Enquanto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE7051A-5B0E-4F69-9427-F112E059799C}|Pares_Enquanto\\Pares_Enquanto.csproj|c:\\users\\vagner.lourenco\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\pares_enquanto\\pares_enquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE7051A-5B0E-4F69-9427-F112E059799C}|Pares_Enquanto\\Pares_Enquanto.csproj|solutionrelative:pares_enquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vagner.lourenco\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Pares_Enquanto\\Pares_Enquanto\\Program.cs",
+              "RelativeDocumentMoniker": "Pares_Enquanto\\Program.cs",
+              "ToolTip": "C:\\Users\\vagner.lourenco\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Pares_Enquanto\\Pares_Enquanto\\Program.cs*",
+              "RelativeToolTip": "Pares_Enquanto\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:28:01.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
