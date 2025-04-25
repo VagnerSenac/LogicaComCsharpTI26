@@ -1,0 +1,7 @@
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\musica\musica\bin\Debug\musica.exe.config
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\musica\musica\bin\Debug\musica.exe
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\musica\musica\bin\Debug\musica.pdb
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\musica\musica\obj\Debug\musica.csproj.AssemblyReference.cache
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\musica\musica\obj\Debug\musica.csproj.CoreCompileInputs.cache
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\musica\musica\obj\Debug\musica.exe
+C:\Users\vagner.lourenco\source\repos\LogicaComCsharpTI26\musica\musica\obj\Debug\musica.pdb

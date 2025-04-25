@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vagner.lourenco\\source\\repos\\LogicaComCsharpTI26\\musica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E498C0A-A0AE-45B4-AA4D-6D6C13D33834}|musica\\musica.csproj|c:\\users\\vagner.lourenco\\source\\repos\\logicacomcsharpti26\\musica\\musica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E498C0A-A0AE-45B4-AA4D-6D6C13D33834}|musica\\musica.csproj|solutionrelative:musica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vagner.lourenco\\source\\repos\\LogicaComCsharpTI26\\musica\\musica\\Program.cs",
+              "RelativeDocumentMoniker": "musica\\Program.cs",
+              "ToolTip": "C:\\Users\\vagner.lourenco\\source\\repos\\LogicaComCsharpTI26\\musica\\musica\\Program.cs",
+              "RelativeToolTip": "musica\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:16:15.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
